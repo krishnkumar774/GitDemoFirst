@@ -10,6 +10,9 @@ public class RESTAPITest {
 		System.out.println("postJira");
 		System.out.println("postJira");
 		System.out.println("postJira");
+		System.out.println("postJiraKrishn");
+		System.out.println("postJiraKumar");
+		
 	}
 	@Test
 	public void deleteTwiter()
