@@ -8,16 +8,12 @@ public class RESTAPITest {
 	public void postJira()
 	{
 		System.out.println("postJira");
-		System.out.println("postJira");
-		System.out.println("postJira");
-		System.out.println("postJiraKrishn");
-		System.out.println("postJiraKumar");
-		
+		System.out.println("kanhaiya");
+		System.out.println("rishn");
 	}
 	@Test
 	public void deleteTwiter()
 	{
-		System.out.println("deleteTwiter");
-		System.out.println("hahahahahahah");
+		System.out.println("radhe radhe");
 	}
 }
