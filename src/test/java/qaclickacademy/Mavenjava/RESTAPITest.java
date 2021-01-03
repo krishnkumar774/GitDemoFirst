@@ -15,5 +15,6 @@ public class RESTAPITest {
 	public void deleteTwiter()
 	{
 		System.out.println("radhe radhe");
+		System.out.println("radhe radhe hri hri hri");
 	}
 }
